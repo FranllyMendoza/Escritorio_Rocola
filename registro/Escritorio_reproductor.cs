@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Escritorio_Rocola
+namespace Escritorio_Rocola.registro
 {
-    public partial class Form1 : Form
+    public partial class Escritorio_reproductor : Form
     {
-        public Form1()
+        public Escritorio_reproductor()
         {
             InitializeComponent();
         }
